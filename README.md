@@ -1,10 +1,3 @@
-# Table of Contents
-- [Project-Overview](#project-overview)
-- [Business-Problem](#business-problem)
-- [Data-Understanding](#data-understanding)
-- [Tableau-Dashboard](#tableau)
-- [Recommendation](#recommendation)
-
 # Project-Overview
 This project aims to assist our company in expanding into the aviation industry by identifying the lowest risk aircraft for commercial and private enterprises. By leveraging data from the National Transportation Safety Board (NTSB) on aviation accidents from 1962 to 2023, we will perform data cleaning, imputation, analysis, and visualization to generate actionable insights. The end goal is to provide three concrete business recommendations for the head of the new aviation division to inform aircraft purchasing decisions.
 
