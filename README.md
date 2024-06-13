@@ -11,7 +11,7 @@ This project aims to assist our company in expanding into the aviation industry 
 # Business-Problem
 Our company is diversifying its portfolio by entering the aviation industry. However, the potential risks associated with different aircraft models are unknown. This project will determine the lowest risk aircraft to help mitigate potential operational risks and ensure a safe investment.
 
-![jakob-rosen-kZfdHrUoB3U-unsplash.jpg](attachment:jakob-rosen-kZfdHrUoB3U-unsplash.jpg)
+![alt text](airplane.jpg)
 
 Photo by <a href="https://unsplash.com/@jakobnoahrosen?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Jakob Rosen</a> on <a href="https://unsplash.com/photos/white-and-blue-passenger-plane-kZfdHrUoB3U?utm_content=creditCopyText&utm_medium=referral&utm_source=unsplash">Unsplash</a>
   
