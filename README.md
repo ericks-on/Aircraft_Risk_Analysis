@@ -30,3 +30,9 @@ You can get the data from [Kaggle](https://www.kaggle.com/datasets/khsamaha/avia
     | 1.| Boeing   | B737-2H4  |
     | 2.| Rockwell | NA-265-80 |
 
+- The company should also enhance Safety Protocols for Critical Flight Phases such as:
+ - strict pre-flight checklists and sophisticated simulation training for takeoff 
+ - precision landing technologies should be adopted 
+ - improving in-flight monitoring and communication systems  during cruising 
+
+
